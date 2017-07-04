@@ -8,5 +8,6 @@ Do not use
 `node app.js`
 to start sample application as babel won't be used to compile ES6 syntax
 
-Go to localhost:3000/news
+Go to 
+`localhost:3000/news`
 and see the API results in console
